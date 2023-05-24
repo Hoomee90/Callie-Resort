@@ -7,6 +7,7 @@ body {
 h1 {
   color: #a10000;
   border: 4px solid black;
+  padding: 10px;
   background-color: #4ac925;
   text-align: center;
 }
@@ -14,6 +15,7 @@ h1 {
 h2 {
   color: #a10000;
   border: 4px solid black;
+  padding: 10px;
   background-color: #4ac925;
   background-clip:padding-box;
   text-align: center;
@@ -22,17 +24,20 @@ h2 {
 h3 {
   color: #a10000;
   border: 4px solid black;
+  padding: 6px;
   background-color: #4ac925;
 }
 
 p {
   border: 4px solid black;
+  padding: 3px;
   background-color: #1f9400;
 }
 
 h4{
   color: #a10000;
   border: 4px solid black;
+  padding: 6px;
   background-color: #4ac925;
 }
 
