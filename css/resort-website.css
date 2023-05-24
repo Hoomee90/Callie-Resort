@@ -38,7 +38,14 @@ p {
   background-color: #1f9400;
 }
 
+strong {
+  font-family:'Gill Sans';
+  font-size: 25px;
+  text-transform: lowercase;
+  text-shadow: 1px 1px 2px #ff0000;
+}
 h4 {
+  text-align: center;
   color: #e00707;
   font-family:monospace;
   padding: 12px;
