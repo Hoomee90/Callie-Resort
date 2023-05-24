@@ -1,9 +1,38 @@
-h1 {
-  color: red;
-}
-
 body {
   background-image: url('imgs/wheelOfLife.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+h1 {
+  color: #a10000;
+  border: 4px solid black;
+  background-color: #4ac925;
+  text-align: center;
+}
+
+h2 {
+  color: #a10000;
+  border: 4px solid black;
+  background-color: #4ac925;
+  background-clip:padding-box;
+  text-align: center;
+}
+
+h3 {
+  color: #a10000;
+  border: 4px solid black;
+  background-color: #4ac925;
+}
+
+p {
+  border: 4px solid black;
+  background-color: #1f9400;
+}
+
+h4{
+  color: #a10000;
+  border: 4px solid black;
+  background-color: #4ac925;
+}
+
