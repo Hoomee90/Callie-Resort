@@ -38,10 +38,26 @@ p {
   background-color: #1f9400;
 }
 
-h4{
+h4 {
   font-family:monospace;
   border: 4px solid black;
   padding: 6px;
   background-color: #4ac925;
 }
 
+h5 {
+font-size: 32px;
+text-align: center;
+line-height: 60px;
+}
+
+a {
+  color: #77003c;
+  text-decoration: none;
+}
+
+mark{
+  background-color:#008141;
+  padding: 2px;
+  border: 4px solid black;
+}
