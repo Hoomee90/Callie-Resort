@@ -1,0 +1,9 @@
+h1 {
+  color: red;
+}
+
+body {
+  background-image: url('imgs/wheelOfLife.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
